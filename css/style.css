@@ -1019,7 +1019,7 @@ img {
 	width: 120px;
 }
 #body .header div .article ul li a.more:hover {
-	background-color: #620031;
+	background-color: #0D0C0C;
 }
 #body .header div .sidebar {
 	float: left;
@@ -1293,7 +1293,7 @@ img {
 	width: 120px;
 }
 #body .header div form input#submit:hover {
-	background-color: #620031;
+	background-color: #0D0C0C;
 }
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
