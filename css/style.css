@@ -579,10 +579,10 @@ img {
 	text-decoration: underline;
 }
 #body.about .header div p a:hover {
-	color: #a3a3a3;
+	color: #000000;
 }
 #body.about .body {
-	background-color: #620031;
+	background-color: #211C1F;
 	margin: 0;
 	min-height: 253px;
 	overflow: hidden;
