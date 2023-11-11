@@ -126,7 +126,7 @@ img {
 	width: auto;
 }
 #header div ul li.menu ul li a {
-	background-color: #620031;
+	background-color: #0D0C0C;
 	color: #ffffff;
 	display: block;
 	font-family: Arial;
@@ -296,7 +296,7 @@ img {
 	opacity: 0.7;
 }
 #body.home .body {
-	background-color: #630031;
+	background-color: #0D0C0C;
 	margin: 0;
 	min-height: 168px;
 	overflow: hidden;
